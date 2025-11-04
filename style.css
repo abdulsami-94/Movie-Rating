@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    padding-top: 30px;
+    font-family: Arial, sans-serif;
+}
+
+input, button {
+    padding: 8px;
+    margin: 6px;
+    font-size: 16px;
+}
+
+#answer {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    display: block;
+}
