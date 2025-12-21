@@ -3,6 +3,12 @@
 A simple movie rating application built using **HTML, CSS, and JavaScript**.
 Users can enter a movie name, provide a rating between **1–5**, and instantly see a descriptive result based on their rating.
 
+---
+
+⚠️ This project is now maintained in my Project Hub repository:
+https://github.com/abdulsami-94/Project-Hub
+
+---
 This project is ideal for practising:
 
 * Form handling
